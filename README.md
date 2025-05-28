@@ -2,7 +2,7 @@
 
 这是 C++ 之父 Bjarne Stroustrup 的 [HOPL4 论文](https://www.stroustrup.com/hopl20main-p5-p-bfc9cd4--final.pdf)的中文版。
 
-[HOPL](https://dl.acm.org/conference/hopl) 是 History of Programming Languages（编程语言历史）的缩写，是 [ACM](https://www.acm.org/)（Association of Computing Machines，国际计算机协会）旗下的一个会议，约每十五年举办一次。Bjarne 的这篇论文是他为 2021 年 [HOPL IV 会议](https://hopl4.sigplan.org/)准备的论文，也是他的第三篇 HOPL 论文。在这三篇前后间隔近三十年的论文里，Bjarne 记录了 C++ 的完整历史，从 1979 年到 2020 年。这篇 HOPL4 论文尤其重要，因为它涵盖了 C++98 之后的所有 C++ 版本，从 C++11 直到 C++20。如果你对更早期的历史也感兴趣的话，则可以参考[他的其他 HOPL 论文](https://www.stroustrup.com/papers.html)，及他在 1994 年出版的《C++ 语言的设计和演化》（*The Design and Evolution of C++*）。
+[HOPL](https://dl.acm.org/conference/hopl) 是 History of Programming Languages（编程语言历史）的缩写，是 [ACM](https://www.acm.org/)（Association of Computing Machines，国际计算机协会）旗下的一个会议，约每十五年举办一次。Bjarne 的这篇论文是他为 2021 年 [HOPL IV 会议](https://hopl4.sigplan.org/)准备的论文，也是他的第三篇 HOPL 论文。在这三篇前后间隔近三十年的论文里，Bjarne 记录了 C++ 的完整历史，从 1979 年到 2020 年。这篇 HOPL4 论文尤其重要，因为它涵盖了 C++98 之后的所有 C++ 版本，从 C++11 直到 C+&#x200d;+20。如果你对更早期的历史也感兴趣的话，则可以参考[他的其他 HOPL 论文](https://www.stroustrup.com/papers.html)，及他在 1994 年出版的《C++ 语言的设计和演化》（*The Design and Evolution of C++*）。
 
 鉴于这篇论文对于 C++ 从业者的重要性，[全球 C++ 及系统软件技术大会](http://cpp-summit.org/)的主办方 [Boolan](http://boolan.com/) 组织了一群译者，把这篇重要论文翻译成了中文，让 C++ 开发人员对 C++ 的设计原则和历史有一个系统的了解。下面是论文的完整摘要：
 
