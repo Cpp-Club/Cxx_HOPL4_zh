@@ -1,4 +1,4 @@
-# 在纷繁多变的世界里茁壮成长：C+&#x200d;+ 2006–2020
+# 在纷繁多变的世界里茁壮成长：C++ 2006–2020
 
 这是 C+&#x200d;+ 之父 Bjarne Stroustrup 的 [HOPL4 论文](https://www.stroustrup.com/hopl20main-p5-p-bfc9cd4--final.pdf)的中文版。
 
